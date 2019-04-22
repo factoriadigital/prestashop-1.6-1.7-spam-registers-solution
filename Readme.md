@@ -39,14 +39,11 @@ Si por el contrario, le aparece el siguiente mensaje:
 El proceso de creación de archivos en la carpeta override ha fallado, porque ya existían dichos archivos, pongase en contacto con nosotros para darles el presupuesto y que lo realice manualmente uno de nuestros técnicos.
 
 
-Es porque ya existen dichos archivos y hay que realizar modifaciones.
-este mismo texto puedo ponerlo en el post de prestashop
-para aclarar
-y así hacer referencia a este hombre
+Es porque ya existen dichos archivos y hay que realizar modifaciones, este mismo texto puedes copiarlo y pegarlo en el espacio para dudas.
 
 ### DUDAS?
 
-Para dudas sobre este modulo pueden usar el foro destinado a tal efecto:
+Para dudas sobre este modulo pueden usar el hilo del foro destinado a tal efecto:
 
 https://www.factoriadigital.com/prestaforum/threads/solucion-a-registros-fraudulentos-en-prestashop.1557/
 
