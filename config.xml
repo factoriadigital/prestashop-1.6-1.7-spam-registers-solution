@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>factocreateoverride</name>
+	<displayName><![CDATA[Creador de ficheros override]]></displayName>
+	<version><![CDATA[2.0.1]]></version>
+	<description><![CDATA[Con este módulo puede crear ficheros en la carpeta Override]]></description>
+	<author><![CDATA[Factoríadigital]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
