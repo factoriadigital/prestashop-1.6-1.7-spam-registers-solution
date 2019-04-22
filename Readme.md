@@ -1,10 +1,14 @@
-# Documentation
-
-## [Español](#markdown-header-spanish)
-
+# Documentationç
 
 ## [English](#markdown-header-english)
 
+## [Español](#markdown-header-spanish)
+
+## English
+
+Credits to [Doekia for his fix & script](https://www.prestashop.com/forums/topic/981159-spam-customer-account-solution-13-17/). This module is based on his work.
+
+We have made this module in order to make things easier for those that don't have or don't know how to use FTP, or simply prefer a solution that works from prestashop backoffice.
 
 ## Español
 
@@ -46,8 +50,3 @@ Para dudas sobre este modulo pueden usar el foro destinado a tal efecto:
 
 https://www.factoriadigital.com/prestaforum/threads/solucion-a-registros-fraudulentos-en-prestashop.1557/
 
-## English
-
-Credits to [Doekia for his fix & script](https://www.prestashop.com/forums/topic/981159-spam-customer-account-solution-13-17/). This module is based on his work.
-
-We have made this module in order to make things easier for those that don't have or don't know how to use FTP, or simply prefer a solution that works from prestashop backoffice.
