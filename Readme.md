@@ -10,6 +10,8 @@ Credits to [Doekia for his fix & script](https://www.prestashop.com/forums/topic
 
 The purpose of this module is to make things easier for those that don't have or don't know how to use FTP, or simply prefer a solution that works from prestashop backoffice.
 
+IMPORTANT: Requires Prestashop 1.6 or 1.7 in order to work.
+
 ## Español
 
 Desde www.factoríadigital.com hemos creado este módulo para solucionar el problema detectado a finales de Abril en Prestashop:
@@ -22,6 +24,8 @@ El proposito de este modulo es hacer las cosas más faciles para los que no tien
 
 
 ### INSTALACIÓN DE MÓDULO.
+
+IMPORTANTE: Requiere Prestashop 1.6 o 1.7 para funcionar.
 
 Para instalar el módulo, solo tiene que ir a Módulos, añadir nuevo módulo, subir el zip proporcionado, e instalar.
 
