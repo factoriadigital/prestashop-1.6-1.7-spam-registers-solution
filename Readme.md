@@ -12,7 +12,7 @@ Desde www.factoríadigital.com hemos creado este módulo para solucionar el prob
 
 Los usuarios están empezando a recibir emails de nuevos clientes registrados en la tienda con una procedencia un tanto extraña. Además, dichos registros, en el apartado de “apellidos” aparece la url de una web. Este es el mayor problema.
 
-Agradecimientos a [Doekia por su solución y script] (https://www.prestashop.com/forums/topic/981159-spam-customer-account-solution-13-17/). Este módulo está basado en su trabajo.
+Agradecimientos a [Doekia por su solución y script](https://www.prestashop.com/forums/topic/981159-spam-customer-account-solution-13-17/). Este módulo está basado en su trabajo.
 
 Hemos hecho este modulo para hacer las cosas más faciles para los que no tienen o no saben usar el FTP, o sencillamente prefieran una solución sin tener que salir del admin de PrestaShop.
 
@@ -48,6 +48,6 @@ https://www.factoriadigital.com/prestaforum/threads/solucion-a-registros-fraudul
 
 ### English
 
-Credits to [Doekia for his fix & script] (https://www.prestashop.com/forums/topic/981159-spam-customer-account-solution-13-17/). This module is based on his work.
+Credits to [Doekia for his fix & script](https://www.prestashop.com/forums/topic/981159-spam-customer-account-solution-13-17/). This module is based on his work.
 
 We have made this module in order to make things easier for those that don't have or don't know how to use FTP, or simply prefer a solution that works from prestashop backoffice.
