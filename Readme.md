@@ -36,10 +36,9 @@ A continuación debe aparecer el siguiente texto:
 Si sale este mensaje, los archivos se han creado de forma correcta. Y se estarán aplicando las modificaciones para solucionar el problema.
 
 Si por el contrario, le aparece el siguiente mensaje:
-El proceso de creación de archivos en la carpeta override ha fallado, porque ya existían dichos archivos, pongase en contacto con nosotros para darles el presupuesto y que lo realice manualmente uno de nuestros técnicos.
+"El proceso de creación de archivos en la carpeta override ha fallado, porque ya existían dichos archivos"
 
-
-Es porque ya existen dichos archivos y hay que realizar modifaciones, este mismo texto puedes copiarlo y pegarlo en el espacio para dudas.
+Es porque ya existen dichos archivos y hay que realizar modificaciones, este mismo texto puedes copiarlo y pegarlo en el espacio para dudas.
 
 ### DUDAS?
 
