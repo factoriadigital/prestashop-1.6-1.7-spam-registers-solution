@@ -1,12 +1,12 @@
 # Documentation
 
-#### [Español](#markdown-header-spanish)
+## [Español](#markdown-header-spanish)
 
 
-#### [English](#markdown-header-english)
+## [English](#markdown-header-english)
 
 
-### Español
+## Español
 
 Desde www.factoríadigital.com hemos creado este módulo para solucionar el problema detectado a finales de Abril en Prestashop:
 
@@ -17,7 +17,7 @@ Agradecimientos a [Doekia por su solución y script](https://www.prestashop.com/
 Hemos hecho este modulo para hacer las cosas más faciles para los que no tienen o no saben usar el FTP, o sencillamente prefieran una solución sin tener que salir del admin de PrestaShop.
 
 
-## INSTALACIÓN DE MÓDULO.
+### INSTALACIÓN DE MÓDULO.
 
 Para instalar el módulo, solo tiene que ir a Módulos, añadir nuevo módulo, subir el zip proporcionado, e instalar.
 
@@ -40,13 +40,13 @@ este mismo texto puedo ponerlo en el post de prestashop
 para aclarar
 y así hacer referencia a este hombre
 
-## DUDAS?
+### DUDAS?
 
 Para dudas sobre este modulo pueden usar el foro destinado a tal efecto:
 
 https://www.factoriadigital.com/prestaforum/threads/solucion-a-registros-fraudulentos-en-prestashop.1557/
 
-### English
+## English
 
 Credits to [Doekia for his fix & script](https://www.prestashop.com/forums/topic/981159-spam-customer-account-solution-13-17/). This module is based on his work.
 
