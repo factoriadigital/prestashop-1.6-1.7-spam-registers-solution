@@ -44,5 +44,5 @@ Es porque ya existen dichos archivos y hay que realizar modificaciones, este mis
 
 Para dudas sobre este modulo pueden usar el hilo del foro destinado a tal efecto:
 
-https://www.factoriadigital.com/prestaforum/threads/solucion-a-registros-fraudulentos-en-prestashop.1557/
+[Solución a spam por registros fraudulentos en prestashop](https://www.factoriadigital.com/prestaforum/threads/solucion-a-registros-fraudulentos-en-prestashop.1557/)
 
