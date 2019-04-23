@@ -12,7 +12,7 @@ The purpose of this module is to make things easier for those that don't have or
 
 ### MODULE INSTALLATION.
 
-*IMPORTANT: This module works from Prestashop version 1.5.4.1 to 1.7*
+**IMPORTANT: This module works from Prestashop version 1.5.4.1 to 1.7**
 
 In order to install the module, you have to go to Modules > Add New Module and upload the ZIP file from our latest release: https://github.com/factoriadigital/prestashop-spam-registers-solution/releases/download/v2.0.0/factocreateoverride.zip
 
@@ -49,7 +49,7 @@ El propósito de este módulo es hacer las cosas más fáciles para los que no t
 
 ### INSTALACIÓN DE MÓDULO.
 
-*IMPORTANTE: El módulo funciona desde la versión de Prestashop 1.5.4.1 hasta la última 1.7*
+**IMPORTANTE: El módulo funciona desde la versión de Prestashop 1.5.4.1 hasta la última 1.7**
 
 Para instalar el módulo, solo tiene que ir a Módulos, añadir nuevo módulo, subir el zip proporcionado, e instalar.
 
