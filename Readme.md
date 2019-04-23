@@ -1,8 +1,8 @@
 # Documentation
 
-## [English](#markdown-header-english)
+## [English](#english-1)
 
-## [Español](#markdown-header-spanish)
+## [Español](#español-1)
 
 ## English
 
@@ -10,11 +10,35 @@ Credits to [Doekia for his fix & script](https://www.prestashop.com/forums/topic
 
 The purpose of this module is to make things easier for those that don't have or don't know how to use FTP, or simply prefer a solution that works from prestashop backoffice.
 
-IMPORTANT: Requires Prestashop 1.6 or 1.7 in order to work.
+### MODULE INSTALLATION.
+
+IMPORTANT: This module works from Prestashop version 1.5.4.1 to 1.7
+
+In order to install the module, you have to go to Modules > Add New Module and upload the ZIP file from our latest release: https://github.com/factoriadigital/prestashop-spam-registers-solution/releases/download/v2.0.0/factocreateoverride.zip
+
+Once installed, go to the configuration section of the module and click on: 
+
+"Create override files"
+
+After that, you should see the following:
+
+```
+El archivo validate.php con su clase ha sido creado de forma correcta en la carpeta override
+El archivo customer.php con su modificación ha sido creado de forma correcta en la carpeta override
+```
+
+That message means that the files are been created correctly.
+
+However, if you see the following message:
+
+```El proceso de creación de archivos en la carpeta override ha fallado, porque ya existían dichos archivos```
+
+It means that these files already exist and you have to make changes manually.
+
 
 ## Español
 
-Desde www.factoríadigital.com hemos creado este módulo para solucionar el problema detectado a finales de Abril en Prestashop:
+Desde https://www.factoriadigital.com/ hemos creado este módulo para solucionar el problema detectado a finales de Abril en Prestashop:
 
 Los usuarios están empezando a recibir emails de nuevos clientes registrados en la tienda con una procedencia un tanto extraña. Además, dichos registros, en el apartado de "apellidos" aparece la url de una web. Este es el mayor problema.
 
