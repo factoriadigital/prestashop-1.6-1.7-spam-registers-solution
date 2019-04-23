@@ -50,7 +50,7 @@ class Factocreateoverride extends Module
         $this->displayName = $this->l('Creador de ficheros override');
         $this->description = $this->l('Con este módulo puede crear ficheros en la carpeta Override');
 
-        $this->ps_versions_compliancy = array('min' => '1.6', 'max' => _PS_VERSION_);
+        $this->ps_versions_compliancy = array('min' => '1.4', 'max' => _PS_VERSION_);
     }
 
     /**
